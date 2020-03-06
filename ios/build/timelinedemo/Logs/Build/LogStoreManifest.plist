@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1E470C80-CB65-4515-A541-E087D9D3030C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1E470C80-CB65-4515-A541-E087D9D3030C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>timelinedemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>timelinedemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace timelinedemo with scheme timelinedemo and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>603301426.61134398</real>
+			<key>timeStoppedRecording</key>
+			<real>603301430.96461999</real>
+			<key>title</key>
+			<string>Building workspace timelinedemo with scheme timelinedemo and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>1E470C80-CB65-4515-A541-E087D9D3030C</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/christopherreyes/Projects/timelinedemo/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/christopherreyes/Projects/timelinedemo/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/christopherreyes/Projects/timelinedemo/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/christopherreyes/Projects/timelinedemo/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/christopherreyes/Projects/timelinedemo/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/christopherreyes/Projects/timelinedemo/ios/Pods/Folly/folly/Optional.h \
+  /Users/christopherreyes/Projects/timelinedemo/ios/Pods/Folly/folly/Portability.h \
+  /Users/christopherreyes/Projects/timelinedemo/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/christopherreyes/Projects/timelinedemo/ios/Pods/Folly/folly/CPortability.h \
+  /Users/christopherreyes/Projects/timelinedemo/ios/Pods/Folly/folly/Traits.h \
+  /Users/christopherreyes/Projects/timelinedemo/ios/Pods/Folly/folly/Utility.h \
+  /Users/christopherreyes/Projects/timelinedemo/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/christopherreyes/Projects/timelinedemo/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/christopherreyes/Projects/timelinedemo/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/christopherreyes/Projects/timelinedemo/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/christopherreyes/Projects/timelinedemo/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/christopherreyes/Projects/timelinedemo/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/christopherreyes/Projects/timelinedemo/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/christopherreyes/Projects/timelinedemo/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/christopherreyes/Projects/timelinedemo/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/christopherreyes/Projects/timelinedemo/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/christopherreyes/Projects/timelinedemo/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/christopherreyes/Projects/timelinedemo/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/christopherreyes/Projects/timelinedemo/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/christopherreyes/Projects/timelinedemo/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/christopherreyes/Projects/timelinedemo/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/christopherreyes/Projects/timelinedemo/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/christopherreyes/Projects/timelinedemo/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h
