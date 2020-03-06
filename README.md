@@ -2,4 +2,4 @@
 
 React Native Projects (2nd Edition) [Video], published by Packt
 
-each folder is a section
+each branch is a project
