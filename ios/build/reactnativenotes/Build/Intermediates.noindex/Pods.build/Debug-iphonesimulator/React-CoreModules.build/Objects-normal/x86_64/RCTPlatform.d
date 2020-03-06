@@ -1,0 +1,42 @@
+dependencies: \
+  /Users/christopherreyes/Projects/reactnativenotes/node_modules/react-native/React/CoreModules/RCTPlatform.mm \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Target\ Support\ Files/React-CoreModules/React-CoreModules-prefix.pch \
+  /Users/christopherreyes/Projects/reactnativenotes/node_modules/react-native/React/CoreModules/RCTPlatform.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/RCTRequired/RCTRequired/RCTRequired.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTConvertHelpers.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Folly/folly/Optional.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Folly/folly/Portability.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Folly/folly/CPortability.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Folly/folly/Traits.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Folly/folly/Utility.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTTypedModuleConstants.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/ReactCommon/ReactCommon/RCTTurboModule.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/ReactCommon/ReactCommon/JSCallInvoker.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/ReactCommon/ReactCommon/TurboModule.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/christopherreyes/Projects/reactnativenotes/ios/Pods/Headers/Public/React-Core/React/RCTVersion.h \
+  /Users/christopherreyes/Projects/reactnativenotes/node_modules/react-native/React/CoreModules/CoreModulesPlugins.h
